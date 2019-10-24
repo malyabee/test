@@ -76,6 +76,9 @@ Domain knowledge in vpns
   Kafka
 
 ## databases
+Requirements :
+         Experience with SQL/NoSQL solutions
+
  PostgreSQL, MySQL, Couchbase, Cassandra.
 
 ##  development process
