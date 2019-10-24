@@ -9,9 +9,13 @@ Domain knowledge : IaaS,PaaS,SaaS
 AWS 
 CloudFormation,
 
+
+ Google Cloud.
+ 
+ 
 ## Virtualization and container technologies :
   Kubernetes
-    overlay networks and Kubernetes Operators
+    Helm Charts, overlay networks and Kubernetes Operators
   
   Docker
 
@@ -49,13 +53,13 @@ REST API tools/commands :  curl,
 Domain knowledge in vpns
 
 ### networking tools
-     nmap and tcpdump
+     nmap, tcpdump, wireshark,
      
 ## messaging queue
   Kafka
 
 ## databases
- Postgres, 
+ PostgreSQL, MySQL.
 
 ## 
 FluentD
@@ -63,6 +67,7 @@ Datadog
 Dataflow, Airflow or Apache Beam.
 BigQuery,
 Redis, Aerospike, , Google pub/sub;
+distributed storage systems (IPFS) and Golem.
 
 # Job roles
 
