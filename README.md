@@ -4,13 +4,18 @@
     DevOps / SRE
     
 ## Cloud :
-Domain knowledge : IaaS,PaaS,SaaS
+Domain knowledge : 
+     IaaS,PaaS,SaaS
 
-AWS 
-CloudFormation,
+Requirements : 
 
+      Create, maintain and manage cloud-based infrastructure
 
- Google Cloud.
+Public clouds:
+     AWS 
+       CloudFormation,
+
+   Google Cloud.
  
  
 ## Virtualization and container technologies :
@@ -33,6 +38,8 @@ CloudFormation,
    git , gitlab, bitbucket
 
 ## CI/CD technologies:
+requirements : Design and implement scalable CI/CD pipelines
+
 Jenkins, maven, Ant
 
 ## Logging, automation and monitoring tools :
@@ -71,6 +78,10 @@ distributed storage systems (IPFS) and Golem.
 
 # Job roles
 
-DevOps/SRE Engineer - Consultant 
+## DevOps/SRE Engineer - Consultant 
+  Requirements : 
+      Evangelize a DevOps culture within the team
+      Develop effective tooling and drive the continuous improvement of the platform
+  
 
 
