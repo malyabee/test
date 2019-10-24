@@ -4,6 +4,6 @@ metadata:
   name: web-server
   namespace: centosweb
 spec:
-  container:
+  containers:
   - name: webcontainer
     image: centosweb:v1
