@@ -10,9 +10,10 @@ Domain knowledge :
 Requirements : 
 
       Create, maintain and manage cloud-based infrastructure
-
+      virtualisation, network configuration, load balancing, auto-scaling.
+     
 Public clouds:
-     AWS 
+     AWS  EC2, ECS, RDS…)
        CloudFormation,
 
    Google Cloud.
@@ -23,6 +24,13 @@ Public clouds:
     Helm Charts, overlay networks and Kubernetes Operators
   
   Docker
+
+##  Load Balancing
+
+TCP/HTTP Load Balancing and Proxying.
+   
+   Loadbalancing and proxying tools 
+       nginx
 
 ## OS
  Linux 
@@ -45,6 +53,8 @@ Jenkins, maven, Ant
 ## Logging, automation and monitoring tools :
    ELK stack, Prometheus and Grafana
 
+   Monitoring with Graphite stack.
+
 ## Languages : 
 Python, Java, Go, yml, 
 
@@ -66,22 +76,37 @@ Domain knowledge in vpns
   Kafka
 
 ## databases
- PostgreSQL, MySQL.
+ PostgreSQL, MySQL, Couchbase, Cassandra.
 
-## 
+##  development process
+    Scrum with 2-week sprints. 
+
+## Software skills.
+Ability to write API integrations using best software
+practices: unit tests, design patterns (when needed), e2e tests, stubbing
+and mocking, embrace methodology, etc.
+
+
+##   N ** 
 FluentD
 Datadog
 Dataflow, Airflow or Apache Beam.
 BigQuery,
 Redis, Aerospike, , Google pub/sub;
 distributed storage systems (IPFS) and Golem.
+ GraphQL.
+Wasabi - A/B Testing Platform.
 
 # Job roles
 
 ## DevOps/SRE Engineer - Consultant 
   Requirements : 
+  
       Evangelize a DevOps culture within the team
+      
       Develop effective tooling and drive the continuous improvement of the platform
+      Participate in technical discussions about the technical roadmap
+      Document our systems and services
   
 
 
