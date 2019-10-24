@@ -1,7 +1,13 @@
 
 # Deveops Tools and Technologies
 
-Cloud : AWS
+    DevOps / SRE
+    
+## Cloud :
+Domain knowledge : IaaS,PaaS,SaaS
+
+AWS 
+CloudFormation,
 
 ## Virtualization and container technologies :
   Kubernetes, 
@@ -14,18 +20,18 @@ Cloud : AWS
 
 ## IaC Tools
   
-  Terraform, 
-  
-  Ansible
+  Terraform, CloudFormation,  Ansible
+  configuration management tool
   Build resilient declarative infrastructure 
 
 ## SCM tools :
    git , gitlab, bitbucket
 
 ## CI/CD technologies:
-jenkins, maven, Ant
+Jenkins, maven, Ant
 
-Logging, automation and monitoring tools :
+## Logging, automation and monitoring tools :
+   ELK stack, Prometheus and Grafana
 
 ## Languages : 
 Python, Java, Go, yml, 
@@ -39,5 +45,22 @@ REST API Test frameworks/ tools : rest-assured
 REST API tools/commands :  curl,
 
 ## networks
+Domain knowledge in vpns
 
-e.g. vpns
+### networking tools
+     nmap and tcpdump
+     
+     
+## databases
+
+
+## 
+FluentD
+Datadog
+
+
+# Job roles
+
+DevOps/SRE Engineer - Consultant 
+
+
