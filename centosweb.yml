@@ -1,0 +1,9 @@
+abiVersion: v1
+kid: Pod
+metadata:
+  name: web-server
+  namespace: centosweb
+spec:
+  container:
+  - name: webcontainer
+    image: centosweb:v1
