@@ -13,8 +13,7 @@ Requirements :
       virtualisation, network configuration, load balancing, auto-scaling.
      
 Public clouds:
-     AWS  EC2, ECS, RDS…)
-       CloudFormation,
+     AWS  EC2, ECS, RDS, ElasticBeanstalk, CloudFormation,
 
    Google Cloud.
  
@@ -90,7 +89,7 @@ practices: unit tests, design patterns (when needed), e2e tests, stubbing
 and mocking, embrace methodology, etc.
 
 
-##   N ** 
+##   ????
 FluentD
 Datadog
 Dataflow, Airflow or Apache Beam.
@@ -99,6 +98,7 @@ Redis, Aerospike, , Google pub/sub;
 distributed storage systems (IPFS) and Golem.
  GraphQL.
 Wasabi - A/B Testing Platform.
+ Sentry, SQS
 
 # Job roles
 
