@@ -14,4 +14,10 @@ SCM tools : git , gitlab, bitbucket
 
 CI/CD technologies:  jenkins, maven, Ant
 
+Languages : Python, Java, Go, yml, 
+
+REST API frameworks :  django-rest-framework, node.js, Apache Axis2
+REST API Test frameworks/ tools : rest-assured
+
+
 
