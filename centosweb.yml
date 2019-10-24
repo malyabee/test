@@ -1,4 +1,4 @@
-abiVersion: v1
+apiVersion: v1
 kid: Pod
 metadata:
   name: web-server
