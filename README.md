@@ -1,23 +1,31 @@
-# test
-
 
 # Deveops Tools and Technologies
 
 Cloud : AWS
 
-Container related technologies : Kubernetes, Docker
+## Virtualization and container technologies :
+  Kubernetes, 
+  
+  Docker
 
-OS : Linux
+## OS
+ Linux
 
-IaC Tools : Terraform, Ansible
+## IaC Tools
+  Terraform, 
+  
+  Ansible
 
-SCM tools : git , gitlab, bitbucket
+## SCM tools :
+   git , gitlab, bitbucket
 
-CI/CD technologies:  jenkins, maven, Ant
+## CI/CD technologies:
+jenkins, maven, Ant
 
 Logging, automation and monitoring tools :
 
-Languages : Python, Java, Go, yml, 
+## Languages : 
+Python, Java, Go, yml, 
 
 ## REST APIs
 
