@@ -9,12 +9,15 @@ Cloud : AWS
   Docker
 
 ## OS
- Linux
+ Linux 
+ systemd / journald / logging
 
 ## IaC Tools
+  
   Terraform, 
   
   Ansible
+  Build resilient declarative infrastructure 
 
 ## SCM tools :
    git , gitlab, bitbucket
@@ -35,3 +38,6 @@ REST API Test frameworks/ tools : rest-assured
 
 REST API tools/commands :  curl,
 
+## networks
+
+e.g. vpns
