@@ -10,7 +10,8 @@ AWS
 CloudFormation,
 
 ## Virtualization and container technologies :
-  Kubernetes, 
+  Kubernetes
+    overlay networks and Kubernetes Operators
   
   Docker
 
@@ -50,14 +51,18 @@ Domain knowledge in vpns
 ### networking tools
      nmap and tcpdump
      
-     
-## databases
+## messaging queue
+  Kafka
 
+## databases
+ Postgres, 
 
 ## 
 FluentD
 Datadog
-
+Dataflow, Airflow or Apache Beam.
+BigQuery,
+Redis, Aerospike, , Google pub/sub;
 
 # Job roles
 
