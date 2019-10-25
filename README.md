@@ -34,6 +34,7 @@ TCP/HTTP Load Balancing and Proxying.
 ## OS
  Linux 
  systemd / journald / logging
+  Linux/Unix operating system security patching experience Linux/Unix shell scripting experience 
 
 ## IaC Tools
   
