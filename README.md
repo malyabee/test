@@ -104,8 +104,8 @@ Wasabi - A/B Testing Platform.
 
 # Job roles
 
-## DevOps/SRE Engineer - Consultant 
-  Requirements : 
+## DevOps/SRE Engineer/Cloud architects - Consultant 
+  Responsibilities : 
   
       Evangelize a DevOps culture within the team
       
@@ -113,5 +113,7 @@ Wasabi - A/B Testing Platform.
       Participate in technical discussions about the technical roadmap
       Document our systems and services
   
-
+  Cloud architect takes part in the design and implementation of cloud infrastructure solutions and services for our customers’ needs.
+  
+  
 
