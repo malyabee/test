@@ -53,11 +53,15 @@ Jenkins, maven, Ant
    ELK stack, Prometheus and Grafana
 
    Monitoring with Graphite stack.
-
+   
+   monitoring tools like Nagios, Incinga, SiteScope, etc.
 ## Languages : 
-Python, Java, Go, yml, 
+  Python, Java, Go, yml, JSON
+  scripting skills : Powershell, Bash, Ruby, Perl,
 
 ## REST APIs
+
+Requirements : Understanding of Service-Oriented Architecture (SOA and REST).
 
 REST API frameworks :  django-rest-framework, node.js, Apache Axis2
 
@@ -68,7 +72,9 @@ REST API tools/commands :  curl,
 API Documentation : https://swagger.io/
 
 ## networks
-Domain knowledge in vpns
+Domain knowledge in
+
+    IP networking, VPN's, DNS, load balancing and firewalling.
 
 ### networking tools
      nmap, tcpdump, wireshark,
@@ -90,6 +96,8 @@ Ability to write API integrations using best software
 practices: unit tests, design patterns (when needed), e2e tests, stubbing
 and mocking, embrace methodology, etc.
 
+## Testing tools (Preferred )
+   Experience with automated testing tools (ie. Selenium, JMeter).
 
 ##   ????
 FluentD
@@ -128,4 +136,14 @@ Contact for customers and the project team across all project phases
 Knowledge in large and complex IT environments (Enterprise IT) 
  Knowledge in software development and understanding of software development processes (implementation, test, deployment) 
  
-
+ Extensive experience as a technical specialist in Customer-facing roles.
+ Automation experience with Ansible in production environments with many nodes.
+ 
+ Familiarity with CloudFormation and JSON.
+ 
+ Experience building sophisticated and highly automated infrastructure.
+ Experience with seamless/automated build scripts used for release management across all environments.
+ Understanding and experience with code deployment (tagging).
+ Strong verbal and written communication skills, with the ability to work effectively across internal and external organizations.
+ Extended travel to customer locations may be required to sell and deliver professional services as needed
+ 
