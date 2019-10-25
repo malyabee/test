@@ -105,7 +105,7 @@ Wasabi - A/B Testing Platform.
 # Job roles
 
 ## DevOps/SRE Engineer/Cloud architects - Consultant 
-  Responsibilities : 
+  Key Tasks and  Responsibilities : 
   
       Evangelize a DevOps culture within the team
       
@@ -115,5 +115,17 @@ Wasabi - A/B Testing Platform.
   
   Cloud architect takes part in the design and implementation of cloud infrastructure solutions and services for our customers’ needs.
   
-  
+ Participating in various projects, from fresh cloud infrastructure builds and migrations, to security implementations and big data or IoT projects.
+Coordination of concepts with decision makers
+Creation of initial work plans, effort estimates and timelines
+Ensuring implementation of these concepts by the development teams
+Contact for customers and the project team across all project phases
+ 
+ 
+ Profile :
+ Extensive experience in IT requirements management and project management 
+ Experience in the design and implementation of IT solution and integration architectures
+Knowledge in large and complex IT environments (Enterprise IT) 
+ Knowledge in software development and understanding of software development processes (implementation, test, deployment) 
+ 
 
